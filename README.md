@@ -1,5 +1,6 @@
 # Training-ML-Agents-
 Training a interactive friendly buddy NPC for players in games using Unity ML-Agents reinforcement learning.
+
 Features added -
 1. Training a agent to follow the player, and stay in a fixed radius from him
 
